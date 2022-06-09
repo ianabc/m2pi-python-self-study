@@ -1,4 +1,4 @@
-# M^PI Python Self Study
+# M2PI Python Self Study
 
 This is a short, self-study, repository intended to provide a starting point for the
 Python training participants will receive at [Math to Power
